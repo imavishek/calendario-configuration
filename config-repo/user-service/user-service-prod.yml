@@ -4,7 +4,7 @@ spring:
       sql:
         enabled: true
         database-name: user_service
-        instance-connection-name: '{cipher}AQBbJqPytEeG0/pj8Bcb2DwNgP0UC8bEoVz3GYGG5HIV9ls7zAmjB4d5a8nnd0b9A+VWoranGHdBC8gS1dK6K/Pn6ftdYrUjVroKtHyeHjrHwiuitDSUT2R/BGAf0F+5YdU6I2s7R8+fhdQZv2cxEXKS7wuI7Dn/FNlUBAh2S9D+cu0sEHe5pHU6gKw3V6/QOVwAQP7Kl+yWGKZefQUejjqWTw19yqE59wHUWg2s1MD8jED6GDLPPX18/MM6JXwy+ua/dtW669U8sD2m6fB27rySJQ9sXCHLWrAo+BHkWNZqvoegada85nNeJXo9TW5wSmtStO/UANXTKGXX8VPc3oeMKkeABTFeeRZgbMApjU5QMH3TJrK8fCh/crqtptMCCfI8Wdb+Y5A/7meXICMKnrnjMzNk2JtAJnOJx6k9E4+uUw=='
+        instance-connection-name: '{cipher}AQCUuV3jvNEfOLnHCW9ty/vC30PS16fLew1Ytpl4/O705oDKrqFdE/vSHjopCfqGIJWLf/Z3JodlpHQCDD5Co6sxaMgwZqh+zx+NXHzcfErQtkQ+kHWTU6ZEUH5uRFiCHGOeWJBDke/PF+ow8cwcm9e49vMl6kVgA7G463nS9yU+Jpbg/7F9r76C3/o5DjAy+iHoaslowmKUywCUMEiLerOyFoZ7gIa5heqa7qTiD9m8aKUPkm2tniHKhW33KDb+DT2wst3G6vVyN4hzDYhKV1C63kJGmC24zPS3Q/mNcpFanXjlVm3Utl4cmwtvkwM9/wbR/TJz4wbWUCr1w7UiW0TOpt8wBcIYcNM6rTvmwC4K0W+Ajb7umOyHtgC2uKKWZZdBKwsUR2zJmDOoYDAQzOESXA0LwXX4NpClTIHv1AWJqQ=='
   rabbitmq:
     host: rabbitmq
     port: 5672
