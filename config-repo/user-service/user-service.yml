@@ -49,6 +49,10 @@ message:
   slot-create-failed: Unable to create slots.
   event-create-success: Event created successfully.
   event-create-failed: Unable to create event.
+  post-create-success: Post created successfully.
+  post-create-failed: Unable to create post.
+  comment-add-success: Comment added successfully.
+  comment-add-failed: Unable to add comment.
 
 management:
   endpoints:
